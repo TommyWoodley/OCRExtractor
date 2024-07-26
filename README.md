@@ -1,1 +1,1 @@
-# OCRProcessor
+# OCR Extractor
